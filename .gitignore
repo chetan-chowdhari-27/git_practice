@@ -5,7 +5,7 @@ __pycache__/
 
 
 venv/
-hello-test/
+# hello-test/
 
 # C extensions
 *.so
